@@ -1,0 +1,5 @@
+~]# sudo hostnamectl status
+we can get information of this device
+
+~]# sudo hostnamectl set-hostname name
+alter the name of this device
